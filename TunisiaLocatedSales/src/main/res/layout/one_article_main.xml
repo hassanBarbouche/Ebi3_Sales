@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+	android:background="@drawable/opacityrect"
+   >
+
+    <ImageView
+		android:id="@+id/imgArticle"
+		android:layout_width="120dp"
+		android:layout_height="120dp"
+		android:scaleType="fitXY"
+		android:src="@drawable/boyred"
+		android:layout_alignParentLeft="false"
+		android:layout_alignParentTop="false"
+		android:layout_centerVertical="true"
+		android:layout_marginLeft="15dp" />
+
+	<RelativeLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imgArticle"
+        android:layout_centerVertical="true">
+
+		<TextView android:id="@+id/titreArticle"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+
+             android:textSize="16sp"
+            android:textColor="#ffd51a"
+             android:textStyle="bold"
+            android:text="Datte et dégla"
+
+            android:layout_marginLeft="10dp" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lieu :"
+            android:id="@+id/textView12"
+            android:layout_below="@+id/titreArticle"
+
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffd51a"
+            android:layout_marginTop="10dp" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quantité :"
+            android:id="@+id/textView13"
+            android:layout_below="@+id/textView12"
+
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffd51a" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prix :"
+            android:id="@+id/textView14"
+            android:layout_below="@+id/textView13"
+
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffd51a" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date :"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/textView14"
+
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffd51a" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kef , Barnoussa"
+            android:id="@+id/ProductLieu"
+            android:layout_below="@+id/titreArticle"
+            android:layout_toEndOf="@id/textView12"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20 kg"
+            android:id="@+id/ProductQuantite"
+            android:layout_below="@+id/textView12"
+            android:layout_toEndOf="@id/textView13"
+            android:layout_marginLeft="10dp" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 dt"
+            android:id="@+id/ProductPrix"
+            android:layout_below="@+id/textView13"
+            android:layout_toEndOf="@id/textView14"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold" />
+
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="15/11/2016"
+            android:id="@+id/ProductDate"
+            android:layout_below="@+id/textView14"
+            android:layout_toEndOf="@id/textView15"
+            android:layout_marginLeft="10dp" />
+	</RelativeLayout>
+
+	<ImageView
+		android:id="@+id/ProductUserImg"
+		android:layout_width="50dp"
+		android:layout_height="50dp"
+		android:scaleType="fitXY"
+
+		android:src="@drawable/cerclemariem"
+		android:layout_alignParentLeft="false"
+		android:layout_alignParentTop="false"
+		android:layout_centerVertical="true"
+		android:layout_alignParentRight="true"
+		android:layout_marginRight="25dp"
+		android:layout_marginTop="15dp" />
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Benkhelifa"
+		android:id="@+id/ProductUserName"
+        android:layout_alignParentRight="true"
+		android:layout_marginRight="20dp"
+        android:layout_below="@+id/imgArticle"
+        android:layout_toStartOf="@+id/ProductUserImg"
+        android:textSize="8sp"
+        android:layout_marginTop="10dp" />
+
+</RelativeLayout>

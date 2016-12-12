@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#000"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/flechegauche"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/tlslogo"
+                android:layout_marginTop="60dp"
+                android:id="@+id/maptun"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/devteam"
+                android:text="Developement Team"
+                android:layout_toEndOf="@id/maptun"
+                android:textColor="#ffcb31"
+                android:layout_marginTop="60dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/devteamdesc"
+                android:text="ebi3 a été developpée par 4 membre d&apos;enactus et d&apos;esprit mobile :H.Barbouche, M.Benkhelifa, A.Haoula, H.Gharsally"
+                android:layout_below="@id/devteam"
+                android:layout_toEndOf="@id/maptun"
+                android:textColor="#fff"
+                android:textSize="10sp"
+                android:layout_marginRight="15dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/memariem"
+                android:id="@+id/photo1"
+                android:layout_below="@id/devteamdesc"
+                android:layout_marginTop="15dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/alahayfa"
+                android:id="@+id/photo2"
+                android:layout_below="@id/photo1"
+                />
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#000"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/flechedroite"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/flechegauche"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"/>
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="270dp"
+    android:src="@drawable/tlslogo"
+    android:layout_marginTop="30dp"
+    android:id="@+id/maptun"
+    android:paddingBottom="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ebi3"
+                android:id="@+id/firstklem"
+                android:layout_below="@+id/maptun"
+                android:layout_marginLeft="20dp"
+                android:textColor="#ffcb31"
+                android:textSize="12sp"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" est une application de e-commerce"
+                android:id="@+id/secondklem"
+                android:layout_below="@+id/maptun"
+                android:layout_toEndOf="@id/firstklem"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#fff"
+                android:textSize="12sp"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" multi -plateformes qui offre un double avantage. Il s’agit d’un nouvel outil de communication qui permettrait aux petits commerçants, n’ayant pas accès à la technologie (smartphone, ordinateur, Internet…), de promouvoir leurs produits ou services en ligne tout en étant hors ligne, et ce à travers le service USSD. E-bi3 présente également un avantage pour les acheteurs désirant avoir une vision plus large sur les offres proposées dans toutes les régions du pays et souhaitant acquérir des offres à prix réduit."
+                android:id="@+id/lastklem"
+                android:layout_below="@+id/firstklem"
+                android:layout_marginRight="20dp"
+
+                android:layout_marginLeft="20dp"
+                android:textColor="#fff"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/logomobile"
+                android:src="@drawable/espritmobile"
+                android:layout_below="@+id/lastklem"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="15dp"/>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/logoenactus"
+                android:src="@drawable/enactuslogo"
+                android:layout_below="@+id/lastklem"
+                android:layout_marginTop="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="50dp" />
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/values-uk/values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 154,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2498,
+                        "endColumn": 154,
+                        "endOffset": 2648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 159,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2653,
+                        "endColumn": 159,
+                        "endOffset": 2808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 150,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2813,
+                        "endColumn": 150,
+                        "endOffset": 2959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 133,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2964,
+                        "endColumn": 133,
+                        "endOffset": 3093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 139,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3098,
+                        "endColumn": 143,
+                        "endOffset": 3237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 160,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2337,
+                        "endColumn": 160,
+                        "endOffset": 2493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1006,
+                    "endColumn": 129,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 129,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endColumn": 167,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 167,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 127,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 127,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 131,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 131,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 185,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 185,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 193,
+                    "endOffset": 1939
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 193,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1944,
+                    "endColumn": 128,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 128,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 140,
+                    "endOffset": 2209
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 140,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2214,
+                    "endColumn": 227,
+                    "endOffset": 2437
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1794,
+                        "endColumn": 227,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2442,
+                    "endColumn": 123,
+                    "endOffset": 2561
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 123,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2566,
+                    "endColumn": 107,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 107,
+                        "endOffset": 2125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endColumn": 164,
+                    "endOffset": 2834
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 164,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2839,
+                    "endColumn": 126,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 126,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 90,
+                    "endOffset": 3052
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2130,
+                        "endColumn": 90,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3057,
+                    "endColumn": 114,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/values-uk/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endColumn": 114,
+                        "endOffset": 2331
+                    }
+                }
+            }
+        ]
+    }
+]

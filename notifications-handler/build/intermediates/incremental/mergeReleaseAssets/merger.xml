@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/src/main/assets"/><source path="/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/src/release/assets"/></dataSet></merger>

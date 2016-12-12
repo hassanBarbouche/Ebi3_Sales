@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ListViewAnimations-core/ListViewAnimations-core.iml" filepath="$PROJECT_DIR$/../ListViewAnimations-core/ListViewAnimations-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SwipeTouchListenerTestActivity/SwipeTouchListenerTestActivity.iml" filepath="$PROJECT_DIR$/../SwipeTouchListenerTestActivity/SwipeTouchListenerTestActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TLS.iml" filepath="$PROJECT_DIR$/../TLS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TunisiaLocatedSales.iml" filepath="$PROJECT_DIR$/TunisiaLocatedSales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZumoE2ETestApp/ZumoE2ETestApp.iml" filepath="$PROJECT_DIR$/../ZumoE2ETestApp/ZumoE2ETestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facebook/facebook.iml" filepath="$PROJECT_DIR$/../facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iap3Helper/iap3Helper.iml" filepath="$PROJECT_DIR$/../iap3Helper/iap3Helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notifications-handler/notifications-handler.iml" filepath="$PROJECT_DIR$/../notifications-handler/notifications-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../progress/progress.iml" filepath="$PROJECT_DIR$/../progress/progress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sdk/sdk.iml" filepath="$PROJECT_DIR$/../sdk/sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sdk.testapp/sdk.testapp.iml" filepath="$PROJECT_DIR$/../sdk.testapp/sdk.testapp.iml" />
+    </modules>
+  </component>
+</project>

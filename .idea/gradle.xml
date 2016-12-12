@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ListViewAnimations-core" />
+            <option value="$PROJECT_DIR$/SwipeTouchListenerTestActivity" />
+            <option value="$PROJECT_DIR$/TunisiaLocatedSales" />
+            <option value="$PROJECT_DIR$/ZumoE2ETestApp" />
+            <option value="$PROJECT_DIR$/facebook" />
+            <option value="$PROJECT_DIR$/iap3Helper" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/notifications-handler" />
+            <option value="$PROJECT_DIR$/progress" />
+            <option value="$PROJECT_DIR$/sdk" />
+            <option value="$PROJECT_DIR$/sdk.testapp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

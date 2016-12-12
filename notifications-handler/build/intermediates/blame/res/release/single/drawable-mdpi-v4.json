@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    }
+]

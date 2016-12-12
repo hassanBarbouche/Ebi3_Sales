@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/sta"
+        android:id="@+id/ComUserImg"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Commentor"
+        android:text="Mohamed Sta"
+        android:layout_marginTop="7dp"
+        android:layout_toEndOf="@+id/ComUserImg"
+        android:layout_marginLeft="7dp"
+        android:textColor="#fff"
+        android:textSize="10sp" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Comment"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+        android:layout_below="@+id/Commentor"
+        android:layout_toEndOf="@+id/ComUserImg"
+        android:layout_marginLeft="7dp"
+        android:textSize="7sp"
+        android:textColor="#fff" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/CommentTime"
+        android:text="Il ya 5 heures "
+        android:layout_below="@+id/Comment"
+        android:layout_toEndOf="@+id/ComUserImg"
+
+        android:layout_marginLeft="7dp"
+        android:textSize="7sp"
+        android:textColor="#ffcb31" />
+
+
+
+
+</RelativeLayout>

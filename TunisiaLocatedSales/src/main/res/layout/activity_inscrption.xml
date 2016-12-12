@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/loginback"
+        android:scaleType="centerCrop" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Header">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imgv"
+            android:src="@drawable/tlslogo"
+            android:layout_marginTop="10dp" />
+
+
+
+
+    </LinearLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/Header"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/UsernameEnter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/UserName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textUri"
+                android:hint="Username"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff" />
+
+        </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="#ffffff"
+        android:layout_below="@+id/UsernameEnter"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+
+        android:id="@+id/Nomenter"
+        android:backgroundTint="#ffffff"
+        android:layout_centerHorizontal="true">
+
+        <EditText android:id="@+id/Nom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textUri"
+            android:hint="Nom"
+
+
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff" />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/Nomenter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/Prenomenter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/Prenom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Prenom"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff"
+                android:inputType="textUri" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/Prenomenter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/EmailEnter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/Email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textUri"
+                android:hint="Email"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/EmailEnter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/ConfirmEmailEnter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/ConfirmEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Confirmer Email"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff"
+                android:inputType="textUri" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/ConfirmEmailEnter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/Adresseenter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/Adresse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Adresse"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff"
+                android:inputType="textUri" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/Adresseenter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/Telephonenter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/telephone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textUri|number"
+                android:hint="Téléphone"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff" />
+
+        </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="#ffffff"
+        android:layout_below="@+id/Telephonenter"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:id="@+id/PasswordEnter"
+        android:backgroundTint="#ffffff"
+        android:layout_centerHorizontal="true">
+        <EditText android:id="@+id/input_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Mot de passe"
+
+
+            android:textColorHint="#ffffff"
+            android:textColor="#ffffff" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="226dp"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/PasswordEnter"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:id="@+id/PasswordEnter2"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+            <EditText android:id="@+id/input_password2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:hint="confirmer le mot de passe"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff" />
+
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#ffffff"
+            android:layout_below="@+id/PasswordEnter2"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+
+            android:id="@+id/DescriptionEnter"
+            android:backgroundTint="#ffffff"
+            android:layout_centerHorizontal="true">
+
+            <EditText android:id="@+id/Description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:hint="Une petite description de vous"
+
+
+                android:textColorHint="#ffffff"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:textSize="14sp"
+                android:inputType="textUri" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:id="@+id/UserImg"
+            android:src="@drawable/defaultuserimg"
+            android:layout_below="@+id/DescriptionEnter"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choisir Votre Photo"
+            android:background="#ffcb31"
+            android:id="@+id/ChoosephotoBtn"
+            android:layout_below="@+id/UserImg"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp" />
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="S'inscrire"
+            android:id="@+id/BtnInscription"
+            android:layout_below="@id/ChoosephotoBtn"
+            android:layout_centerHorizontal="true"
+            android:background="#1fb7e6"
+            android:layout_marginTop="15dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_below="@+id/BtnInscription"></LinearLayout>
+
+
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/cont"
+        android:id="@+id/SigninLayout"
+        >
+
+
+
+    </RelativeLayout>
+
+    </RelativeLayout>
+    </ScrollView>
+
+
+
+</FrameLayout>

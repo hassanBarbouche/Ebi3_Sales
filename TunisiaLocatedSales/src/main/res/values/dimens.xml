@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_height_small">150dp</dimen>
+    <dimen name="item_height_tall">500dp</dimen>
+    <dimen name="gap">3dp</dimen>
+    <dimen name="divider_height">@dimen/gap</dimen>
+    <dimen name="standar_padding">8dp</dimen>
+    <dimen name="standar_padding_small">4dp</dimen>
+    <dimen name="spinner_width">100dp</dimen>
+    <dimen name="touchable_ui">@android:dimen/app_icon_size</dimen>
+    <!--@android:dimen/navigation_bar_height(48dp)-->
+    <dimen name="margin_top_customization_fragment">48dp</dimen>
+
+
+    <dimen name="header_height">298dp</dimen>
+    <dimen name="min_header_height">250dp</dimen>
+    <dimen name="header_logo_size">100dp</dimen>
+
+    <dimen name="drawer_width">300dp</dimen>
+    <dimen name="drawer_width_travel">360dp</dimen>
+    <dimen name="drawer_width_social">260dp</dimen>
+    <dimen name="drawer_width_media">180dp</dimen>
+    <dimen name="drawer_width_shopping">320dp</dimen>
+    <dimen name="drawer_width_news">96dp</dimen>
+    <dimen name="ken_burns_header">250dp</dimen>
+    <dimen name="cpb_stroke_width">4dp</dimen>
+    <dimen name="fab_widh">16dp</dimen>
+    <dimen name="fab_height">16dp</dimen>
+
+    <dimen name="tool_bar_text_size">22sp</dimen>
+    <dimen name="main_screen_side_padding">10dp</dimen>
+    <dimen name="text_top_padding">25dp</dimen>
+    <dimen name="title_text_size">26sp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+</resources>

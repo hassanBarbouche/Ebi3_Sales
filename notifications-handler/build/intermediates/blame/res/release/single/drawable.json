@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/res/merged/release/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/Hassan/Desktop/TLSAndroid/TLS/notifications-handler/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/res/drawable/common_signin_btn_icon_light.xml"
+    }
+]

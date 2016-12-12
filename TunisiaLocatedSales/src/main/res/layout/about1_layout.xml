@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#000"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/flechedroite"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"/>
+
+            <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:src="@drawable/tlstunisiemap"
+    android:layout_marginTop="30dp"
+    android:id="@+id/maptun" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/producteur"
+        android:layout_below="@id/maptun"
+        android:id="@+id/produicone"
+        android:layout_marginLeft="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Producteur"
+        android:id="@+id/nameprod"
+        android:layout_below="@id/maptun"
+        android:layout_toEndOf="@+id/produicone"
+        android:layout_marginLeft="10dp"
+        android:textSize="17sp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Celui qui produit fabrique le produit , ou offre son service ..."
+        android:id="@+id/descprod"
+        android:layout_below="@id/nameprod"
+        android:layout_toEndOf="@+id/produicone"
+        android:layout_marginLeft="10dp"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/flouss"
+        android:layout_below="@id/produicone"
+        android:id="@+id/comercicone"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Commercant"
+        android:id="@+id/namecom"
+        android:layout_below="@id/produicone"
+        android:layout_toEndOf="@+id/comercicone"
+        android:layout_marginLeft="10dp"
+        android:textSize="17sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="La liaison entre le producteur et le client final..."
+        android:id="@+id/desccomerc"
+        android:layout_below="@id/namecom"
+        android:layout_toEndOf="@+id/comercicone"
+        android:layout_marginLeft="10dp"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/client"
+        android:layout_below="@id/comercicone"
+        android:id="@+id/clienticone"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Client"
+        android:id="@+id/nameclient"
+        android:layout_below="@id/comercicone"
+        android:layout_toEndOf="@+id/clienticone"
+        android:layout_marginLeft="10dp"
+        android:textSize="17sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="L&apos;acheteur final du produit ou le profiteur final du service..."
+        android:id="@+id/descclient"
+        android:layout_below="@id/nameclient"
+        android:layout_toEndOf="@+id/clienticone"
+        android:layout_marginLeft="10dp"
+        android:textSize="10sp" />
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

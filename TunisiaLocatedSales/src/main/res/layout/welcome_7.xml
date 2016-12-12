@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/blue">
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scaleType="centerCrop"
+        android:layout_gravity="left|top" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/profile3"
+        android:id="@+id/Profile1"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ibicom"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/titre"
+        android:layout_marginBottom="35dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ProductDesc"
+        android:textColor="#ffff"
+        android:text="dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        android:layout_toRightOf="@+id/Profile1"
+        android:layout_toEndOf="@+id/Profile1"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_blue_A400"
+        android:text="Skip"
+        android:id="@+id/skip3"
+        android:textColor="#ffff"
+        android:layout_toEndOf="@+id/Profile1"
+        android:layout_alignBottom="@+id/ProductDesc"
+        android:layout_marginBottom="-60dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="@color/material_light_yellow_A700"
+        android:text="Visiualiser"
+        android:textColor="#ffff"
+        android:layout_toEndOf="@+id/Profile1"
+        android:layout_alignBottom="@+id/ProductDesc"
+        android:layout_marginBottom="-60dp"
+        android:layout_marginLeft="100dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ProductDesc"
+        android:text="Espace Publicitaire Libre"
+        android:textColor="#ffff"
+        android:layout_alignStart="@+id/ProductDesc"
+        android:textSize="17sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-35dp"
+        android:textStyle="bold"
+        android:id="@+id/titre" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cercleview7"
+        android:layout_below="@+id/skip3"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

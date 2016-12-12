@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.facebook.android/facebook/4.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="18155a86a06186b6a450cded9b3b92d088622275">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-6ddb22b03d8c7e19349b3f79ae88250301b407f2.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/okio-1.6.0-ba378f4f89140a602748c5e88ee1d6b75f241122.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/library-2.4.0-fdc56d28f78d123f7214eb65d993fc9728df0564.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.jpardogo.listbuddies/SwipeTouchListenerTestActivity/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5a2a0a5d484e15fe68427a5f016f7590e748bea">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-fde09492778a4718097d7cc53628f3914966a1b9.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/fr.avianey.com.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86f452c126cb92a79e1dcf08efec5404529b698e">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-aa991820240801ea3bbccf1f2577e2e824aa61fd.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-0d8a7d6514811da41612d753205207c8d9119dbe.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-f18fc6f94061760f7a724f0eb084f6aa09ac5dd2.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/internal_impl-23.1.0-17fed8366231e5d92bd1ffd0301d9acaeababdba.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.jpardogo.listbuddies/ListViewAnimations-core/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2c7ea07c89671d8d6d1f64d66f40e64c9793271">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-2b7e0494a3daed7b1c9417b903f94fa7ec587d0d.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/universal-image-loader-1.9.5-72f76ea49fc8c81ed7941ffce0ad644173775037.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/bolts-android-1.2.1-9c74cf8962abe12fde4cf8beb916d9cd9fc5c413.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/okhttp-2.5.0-07f069cae5fc050b24c6c0b1dcffdf4eccfe95ed.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-b04a8aee4275ebf2e944074edd44cda9ea590374.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/picasso-2.3.3-c3f7e8be3f3befed5ea91f070620c2aae2026077.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.jpardogo.listbuddies/ListViewAnimations-core/1.1.1/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/nineoldandroids-2.4.0-c40ea7e35a75731381cd7b03ac9c1d9cba3fb2eb.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.jpardogo.listbuddies/library/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40aee4c85e9194fd6edcbb13217778047dde62a2">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-b21a982579ddfcdeec10b556fbfb2ee2073494a2.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-521079a30af2c33f2a5894fe74492c5264ba5134.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.3/36366e460af2c0f224bb8f70b64e3302f638b138/parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/parse-android-1.10.3-2e97f960ad29ee431a5f98bc66e729a19c50a90a.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fabprogresscircle/1.01/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9abc58346d8519a4be59cdf0f9fe3eb52dd9c8ac">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-1ef83319ca36f816cb300f9846a4a22fbd821734.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.github.tibolte/elasticdownload/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="582663e49e5150fa4641341d655e5b68cc3cffc3">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-a055e7806f5dd80cd3bbe217f4aaaa6364f352bb.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-21c734e8495f922b4531a1d4ccf46af4ebde54fa.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-bfc2bff54f4375895d422654f94a7d29c64a92da.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/butterknife-7.0.1-e7cb9ed996023d1567cbe5607c14d9a207fee25b.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-33a40713654658ad8dd4c80dab36acc7af95670c.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-c14abe191b1db09424ff7a40492e001e8d8fdcb9.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/classes-84c8c2527337015111bf0cea9ddb91d1fbfe5a41.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/support-annotations-23.1.0-c976bb527e052462fb2d831b994590a5b9f56666.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/glide-3.6.0-e40cfc2b83b8414d355bc525a6662c27c496a8f9.jar" />
+    </item>
+    <item
+        jar="/Users/Hassan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/Hassan/Desktop/And/ListBuddies-master/example/build/intermediates/pre-dexed/flavor1/debug/okhttp-urlconnection-2.0.0-dbf5d638f7277ccba635d6d57c13fd7ce0a72f98.jar" />
+    </item>
+
+</items>

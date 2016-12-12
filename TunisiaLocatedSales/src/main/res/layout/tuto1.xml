@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/tutoback">
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:id="@+id/exitframe"
+    />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/swipegestanim"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/swipeimg"
+        android:layout_marginTop="20dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Glissez votre doigt horizentalement pour naviguer entre les différentes catégories dans la page principale de l'application."
+        android:layout_below="@id/swipeimg"
+        android:id="@+id/txt1"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/doubletapanim"
+        android:layout_below="@id/txt1"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/click1"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tappez sur un des bouttons du menu afin de vous diriger vers : le menu principal , ajouter un éléments ou voir vos notifications ."
+        android:layout_below="@id/click1"
+        android:id="@+id/txt2"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignRight="@+id/click1"
+        android:layout_alignEnd="@+id/click1" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/clickdrawer"
+        android:layout_below="@id/txt1"
+        android:layout_toEndOf="@id/click1"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/click2"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tappez sur le boutton du drawer pour afficher les différentes catégories, effectuer une recherche ou modifier votre compte   ."
+        android:layout_below="@id/click1"
+        android:id="@+id/txt3"
+        android:layout_toEndOf="@id/txt2"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignRight="@+id/click2"
+        android:layout_alignEnd="@+id/click2" />
+
+
+
+
+</RelativeLayout>
